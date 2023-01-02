@@ -1,4 +1,4 @@
-# Batched-MAB-simulations-and-setup
+# Batched MAB Monte Carlo simulations
 
 #### Goal of the model
 Finding which combination of parameters generates the highest CTR over time.
